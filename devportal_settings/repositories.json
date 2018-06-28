@@ -1,0 +1,93 @@
+{
+  "ipplatformCodeGit": {
+    "localBaseFolder": "testIPPlatform",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
+    "releases": {
+      "1710.00": {
+        "branch": "release/REL_1710"
+      },
+      "1712.00": {
+        "branch": "master"
+      },
+      "1801.00": {
+        "branch": "develop/REL_1801"
+      },
+      "1803.00": {
+        "branch": "develop/REL_1803"
+      },
+      "2020.00": {
+        "branch": "release/REL_2020"
+      }
+    }
+  },
+  "ipplatformPresentationAppsGit": {
+    "localBaseFolder": "testIPPPresnApps",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
+    "releases": {
+      "1710.00": {
+        "branch": "release/REL_1710"
+      },
+      "1712.00": {
+        "branch": "master"
+      },
+      "1801.00": {
+        "branch": "develop/REL_1801"
+      },
+      "1803.00": {
+        "branch": "develop/REL_1803"
+      }
+    }
+  },
+  "documentGit": {
+    "localBaseFolder": "testDocuments",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
+    "releases": {
+      "2020.00": {
+        "branch": "release/REL_2020"
+      }
+    }
+  },
+  "interfacesGit": {
+    "localBaseFolder": "testInterfaces",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git"
+  },
+  "cacheDataGit": {
+    "localBaseFolder": "testCacheData",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
+    "releases": {
+      "1710.00": {
+        "branch": "release/REL_1710"
+      },
+      "1712.00": {
+        "branch": "master"
+      },
+      "1801.00": {
+        "branch": "develop/REL_1801"
+      },
+      "1803.00": {
+        "branch": "develop/REL_1803"
+      }
+    }
+  },
+  "serverConfigGit": {
+    "localBaseFolder": "testServerData",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git"
+  },
+  "ipplatformMediaFilesGit": {
+    "localBaseFolder": "IPPlatform_MediaFiles",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git"
+  },
+  "uiSpecsGit": {
+    "localBaseFolder": "IPPlatform_UiSpecs",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
+    "releases": {
+      "1.0.0": {
+        "branch": "master"
+      }
+    }
+  },
+  "assetAutomationPrepGit": {
+    "localBaseFolder": "deployed_assets",
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git"
+  }
+}
