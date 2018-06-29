@@ -18,6 +18,9 @@
       },
       "1803.00": {
         "branch": "develop/REL_1803"
+      },
+      "2020.00": {
+        "branch": "release/REL_2020"
       }
     }
   },
@@ -26,6 +29,9 @@
     "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
     "releases": {
       "2020": {
+        "branch": "release/REL_2020"
+      },
+      "2020.00": {
         "branch": "release/REL_2020"
       }
     }
