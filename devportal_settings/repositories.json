@@ -1,7 +1,12 @@
 {
   "assetAutomationPrepGit": {
     "localBaseFolder": "deployed_assets",
-    "remoteRepository": "git@github.com:somnath-kokane/devportal.git"
+    "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
+    "releases": {
+      "2020.00": {
+        "branch": "release/REL_2020"
+      }
+    }
   },
   "cacheDataGit": {
     "localBaseFolder": "testCacheData",
@@ -18,23 +23,13 @@
       },
       "1803.00": {
         "branch": "develop/REL_1803"
-      },
-      "2020.00": {
-        "branch": "release/REL_2020"
       }
     }
   },
   "documentGit": {
     "localBaseFolder": "testDocuments",
     "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
-    "releases": {
-      "2020": {
-        "branch": "release/REL_2020"
-      },
-      "2020.00": {
-        "branch": "release/REL_2020"
-      }
-    }
+    "releases": {}
   },
   "interfacesGit": {
     "localBaseFolder": "testInterfaces",
@@ -44,9 +39,6 @@
     "localBaseFolder": "testIPPlatform",
     "remoteRepository": "git@github.com:somnath-kokane/devportal.git",
     "releases": {
-      "2020": {
-        "branch": "release/REL_2020"
-      },
       "1710.00": {
         "branch": "release/REL_1710"
       },
